@@ -1,0 +1,23 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #fff;
+}
+#projects {
+    background-color: #fff;
+}
+section {
+    padding-top: 5rem;
+}
+
+.banner {
+    background: url(img/fotobackground.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 70%;
+    color: #fff;
+  }
+
+  .tim img {
+    width: 250px;
+    border: 10px solid #cccc;
+  }
